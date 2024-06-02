@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AprendeProgramando</string>
+    <string name="main_title">Lista de tareas</string>
+    <string name="main_add_todo">add</string>
+    <string name="main_new_todo">Nueva Tarea</string>
+    <string name="todo_created_at">Created at</string>
+</resources>
